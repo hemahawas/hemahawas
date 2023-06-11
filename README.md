@@ -1,7 +1,14 @@
-### Hi there 👋
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+## Get in touch :coffee:
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/ibraheem-rizk-66a996218/)
+
+
 
 <!--
-**hemahawas/hemahawas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
