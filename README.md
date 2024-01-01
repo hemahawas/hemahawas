@@ -2,7 +2,7 @@
 ### <div align="center">Hey there 👋, I'm Ibraheem rizk</div>  
   
 
-- 🌱 I’m currently learning Embedded Systems Diploma  
+- 🌱 I’m currently working on Graduation Project 
   
 
 <br/>  
