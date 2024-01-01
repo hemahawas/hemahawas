@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=8c%2fLSA5P&id=3694ADD1EECFEF273BDF70984036010281CBED8B&thid=OIP.8c_LSA5PAF6Iq1LxPIYQHAHaEK&mediaurl=https%3a%2f%2fimages.fridaymagazine.ae%2f1_2244719%2fimagesList_0%2f159508486_main.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f1cfcb480e4f005e88ab52f13c86101c%3frik%3di%252b3LgQIBNkCYcA%26pid%3dImgRaw%26r%3d0&exph=551&expw=980&q=embedded+systems&simid=608035729008780288&FORM=IRPRST&ck=62D4F26EBEB958BAE7742E5E2E6E274B&selectedIndex=14&itb=0" align="center" style="width: 100%" />
+<img src="[https://www.bing.com/images/search?view=detailV2&ccid=8c%2fLSA5P&id=3694ADD1EECFEF273BDF70984036010281CBED8B&thid=OIP.8c_LSA5PAF6Iq1LxPIYQHAHaEK&mediaurl=https%3a%2f%2fimages.fridaymagazine.ae%2f1_2244719%2fimagesList_0%2f159508486_main.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.f1cfcb480e4f005e88ab52f13c86101c%3frik%3di%252b3LgQIBNkCYcA%26pid%3dImgRaw%26r%3d0&exph=551&expw=980&q=embedded+systems&simid=608035729008780288&FORM=IRPRST&ck=62D4F26EBEB958BAE7742E5E2E6E274B&selectedIndex=14&itb=0](https://th.bing.com/th/id/OIP.8c_LSA5PAF6Iq1LxPIYQHAHaEK?rs=1&pid=ImgDetMain)" align="center" style="width: 100%" />
 </div>  
   
 
@@ -52,31 +52,6 @@
   
 
 <br/>  
-
-
-## Github Stats  
-  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
             <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
