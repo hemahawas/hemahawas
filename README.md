@@ -1,6 +1,6 @@
+![logo](https://github.com/hemahawas/hemahawas/assets/65867729/633c85a8-d2de-4a71-be95-61ad65f4ebf9)
 <div align="center">
-<img align="center" width="400" src="https://github.com/hemahawas/hemahawas/assets/65867729/633c85a8-d2de-4a71-be95-61ad65f4ebf9
-" />
+
 </div>  
   
 
