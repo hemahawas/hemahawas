@@ -1,8 +1,8 @@
 
 
-<div align="center">
+<br align="center">
 ![image](https://github.com/hemahawas/hemahawas/assets/65867729/633c85a8-d2de-4a71-be95-61ad65f4ebf9)
-</div>  
+</br>  
   
 
 ### <div align="center">Hey there 👋, I'm Ibraheem rizk</div>  
