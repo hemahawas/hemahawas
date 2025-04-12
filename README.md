@@ -2,7 +2,7 @@
 # <div align="center">Hey there 👋, I'm Ibraheem rizk</div>  
   
 ## About me
-- ❤️ Passionate to be mobile software Engineer 
+- ❤️ Passionate to be mobile software engineer 
 - 🔧 Flutter Developer
 - 🎓 Specialized in Computer Engineering
 - 💪 Always learning and experimenting
@@ -76,11 +76,7 @@
 
 📸 **Live Demo** : [Here](https://drive.google.com/file/d/11Crjpo3IrVgtQaaffCWuHot_uX-utP6s/view)
 
-
-<h2 align="left">Profile Views</h2>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hemahawas/count.svg?"  />
-</div>
+---
 
 ### 🤝 Connect with me
 - **LinkedIn**: [Link](https://www.linkedin.com/in/ibraheem-rizk-hawas/)
