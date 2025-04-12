@@ -52,7 +52,29 @@
 
 <br/>  
 
-### 📱 Projects
+## 🔧Projects
+
+### 1. Kalemni Chat App
+⭐ **Stars**: 1
+
+📱 **Platform**: Flutter
+
+📝 **Features**: Authentication, Add New Connections, Real-Time Messaging, Group, Search and Local storage
+
+🛠 **Tech Stack**: Firebase, GetIt, BLoC, MVVM, CI/CD
+
+📸 **Live Demo** : [Here](https://drive.google.com/file/d/1jlzEdJHsHSP6QNF19XXYFF41HiGaMNVx/view?usp=drive_link)
+
+---
+
+### 2. Quotes App
+📱 **Platform**: Flutter
+
+📝 **Description**: show inspirational quotes
+
+🛠 **Tech Stack**: API, GetIt, BLoC, Clean Archeticture
+
+📸 **Live Demo** : [Here](https://drive.google.com/file/d/11Crjpo3IrVgtQaaffCWuHot_uX-utP6s/view)
 
 
 <h2 align="left">Profile Views</h2>
@@ -60,13 +82,9 @@
   <img src="https://profile-counter.glitch.me/hemahawas/count.svg?"  />
 </div>
 
-## 🤝 Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ibraheem-rizk-66a996218/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="ibraheem.rizk3@gmail.com" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</a>
+### 🤝 Connect with me
+- **LinkedIn**: [Link](https://www.linkedin.com/in/ibraheem-rizk-hawas/)
+- **Gmail**:  ibraheem.rizk3@gmail.com
+
   
 </div>  
