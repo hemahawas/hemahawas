@@ -81,6 +81,7 @@
 ### 🤝 Connect with me
 - **LinkedIn**: [Link](https://www.linkedin.com/in/ibraheem-rizk-hawas/)
 - **Gmail**:  ibraheem.rizk3@gmail.com
+- **LeetCode**: [Link](https://leetcode.com/u/Hemahawas/)
 
   
 </div>  
