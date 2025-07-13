@@ -63,7 +63,7 @@
 
 🛠 **Tech Stack**: Firebase, GetIt, BLoC, MVVM, CI/CD
 
-📸 **Live Demo** : [Here](https://drive.google.com/file/d/1jlzEdJHsHSP6QNF19XXYFF41HiGaMNVx/view?usp=drive_link)
+📸 **Live Demo** : [Here](https://www.youtube.com/shorts/9pb55X8qqiQ)
 
 ---
 
